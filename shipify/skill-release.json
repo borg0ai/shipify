@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "skillId": "shipify",
+  "channel": "stable",
+  "version": "0.1.0",
+  "source": {
+    "repository": "https://github.com/borg0ai/shipify"
+  },
+  "updateManifestUrl": "https://raw.githubusercontent.com/borg0ai/shipify/main/shipify/skill-release.json"
+}
