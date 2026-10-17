@@ -3,7 +3,7 @@ name: shipify
 description: Release a repository safely by synchronizing version files, committing, tagging, and pushing; publish GitHub Release assets for apps or CLI binaries and assess macOS arm64 Homebrew releases. Use when preparing or executing a software release in an existing repository.
 license: MIT
 metadata:
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Shipify
