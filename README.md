@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logos/shipify-icon.svg" alt="Shipify package delivery icon" width="180">
+</p>
+
 # Shipify
 
 Shipify guides repository releases: synchronize version files, commit, tag, push, publish binary GitHub Releases when the repository ships an app or CLI, and assess macOS arm64 Homebrew release needs.
@@ -5,7 +9,7 @@ Shipify guides repository releases: synchronize version files, commit, tag, push
 ## Install
 
 ```bash
-npx skills add borg0ai/shipify --skill shipify --agent codex --copy --yes
+npx skills add borg0ai/shipify --skill shipify --agent '*' --global --yes
 ```
 
 ## Validate and discover
@@ -24,6 +28,8 @@ shipify/
   SKILL.md
   skill-release.json
   LICENSE
+logos/shipify-icon.svg
+logos/shipify-avatar-512.png
 README.md
 LICENSE
 ```
