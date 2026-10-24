@@ -1,6 +1,6 @@
 # RFC 0001: Configure cross-platform release channels and README review
 
-**Status:** Approved
+**Status:** Implemented
 
 ## Summary
 
